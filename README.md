@@ -1,4 +1,4 @@
-# The Amazing rpkgMin
+# The Amazing rpkgMin by Colin
 
 This package is the bear
 ---
